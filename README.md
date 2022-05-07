@@ -31,7 +31,7 @@ Over the past few years we have made _some_ commit to some projects.
 
 <details>
   <summary>
-    &ge; 10<sup>3</sup>
+    &ge;
   </summary>
 <ol>
 <li><a href="https://github.com/barley-benincasa/jupyterhub-for-classes">JupyterHub for Classes</a></li>
