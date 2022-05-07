@@ -1,6 +1,12 @@
+
 ### Barley-Benincasa Lab & Studios
 
-🔭 We are currently working on a JupyterBook project
+
+🔭  We work on JupyterBooks
+
+
+![AvatarMaker](https://user-images.githubusercontent.com/24324773/167266217-bbd8c0b4-b774-4546-8caa-dc91f35f0e6b.png)
+
 
 <!--
 **barley-benincasa/barley-benincasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
