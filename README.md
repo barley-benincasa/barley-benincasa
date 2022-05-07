@@ -11,19 +11,13 @@
 
 
 <details>
-<summary>I have started 13 projects which have received _at least_ one external contribution.</summary>
+<summary>We are primarily a ghost-writing outfit.  So don't look for much here.</summary>
 
 <small>(Sorted by [☆](https://docs.github.com/en/github/getting-started-with-github/saving-repositories-with-stars#about-stars).)</small>
 
 <ol style="list-style: none">
 
-<li><a href="https://github.com/brettcannon/python-launcher">python-launcher</a></li>
-
-<li><a href="https://github.com/brettcannon/WWBD">WWBD</a></li>
-
-<li><a href="https://github.com/Which-Film/which-film.info">which-film.info</a></li>
-
-<li><a href="https://github.com/brettcannon/importlib">importlib</a></li>
+<li><a href="https://github.com/barley-benincasa/jupyterhub-for-classes">JupyterHub for Classes</a></li>
 
 </ol>
   
@@ -31,21 +25,17 @@
 
 ## Contributions
 
-Over the past 19 years, I have made _some_ commit to 188 projects.
+Over the past few years we have made _some_ commit to some projects.
 
 <small>(Grouped by commit count.)</small>
 
-
-
-
-<details><summary>&ge; 10<sup>3</sup></summary>
-
+<details>
+  <summary>
+    &ge; 10<sup>3</sup>
+  </summary>
 <ol>
-
-
-<li><a href="https://github.com/python/cpython/commits?author=brettcannon">python/cpython</a></li>
-
-  </ol>
+<li><a href="https://github.com/barley-benincasa/jupyterhub-for-classes">JupyterHub for Classes</a></li>
+</ol>
 
 
 <!--  
