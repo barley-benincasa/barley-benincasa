@@ -10,7 +10,7 @@
 
 
 
-details>
+<details>
 <summary>I have started 13 projects which have received _at least_ one external contribution.</summary>
 
 <small>(Sorted by [☆](https://docs.github.com/en/github/getting-started-with-github/saving-repositories-with-stars#about-stars).)</small>
@@ -18,24 +18,6 @@ details>
 <ol style="list-style: none">
 
 <li><a href="https://github.com/brettcannon/python-launcher">python-launcher</a></li>
-
-<li><a href="https://github.com/brettcannon/caniusepython3">caniusepython3</a></li>
-
-<li><a href="https://github.com/brettcannon/gidgethub">gidgethub</a></li>
-
-<li><a href="https://github.com/brettcannon/desugar">desugar</a></li>
-
-<li><a href="https://github.com/brettcannon/sans-io">sans-io</a></li>
-
-<li><a href="https://github.com/brettcannon/oplop">oplop</a></li>
-
-<li><a href="https://github.com/brettcannon/stdlib-stats">stdlib-stats</a></li>
-
-<li><a href="https://github.com/brettcannon/mousebender">mousebender</a></li>
-
-<li><a href="https://github.com/brettcannon/riscv-harmony">riscv-harmony</a></li>
-
-<li><a href="https://github.com/brettcannon/dotfiles">dotfiles</a></li>
 
 <li><a href="https://github.com/brettcannon/WWBD">WWBD</a></li>
 
