@@ -5,10 +5,12 @@
 🔭  We work on JupyterBooks
 
 
-![AvatarMaker](https://user-images.githubusercontent.com/24324773/167266217-bbd8c0b4-b774-4546-8caa-dc91f35f0e6b.png)
+![Zoe](https://user-images.githubusercontent.com/24324773/167266217-bbd8c0b4-b774-4546-8caa-dc91f35f0e6b.png)
 
 
-<!--
+<!![Dorothy in So. Cali](https://user-images.githubusercontent.com/24324773/167266265-6d53d0c2-845c-4f8c-8a95-a40696d6ad7c.jpg)
+
+--
 **barley-benincasa/barley-benincasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
