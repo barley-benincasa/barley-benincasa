@@ -25,7 +25,7 @@
 
 ## Contributions
 
-Over the past few years we have made _some_ commit to some projects.
+Over the past few years we have made _some_ commits to some projects.
 
 <small>(Grouped by commit count.)</small>
 
