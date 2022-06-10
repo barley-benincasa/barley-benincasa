@@ -37,6 +37,7 @@ Over the past few years we have made _some_ commits to some projects.
 <li><a href="https://github.com/barley-benincasa/jupyterhub-for-classes">JupyterHub for Classes</a></li>
 </ol>
 
+
 ![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 <!--  
