@@ -23,6 +23,13 @@
   
   </details>
 
+## Because we think this is ... interesting.
+
+![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+Not The Chief wanted to say 'cool' and the Old Man wanted to say, 'remarkable.'  But the Chief's the Chief.
+
+
 ## Contributions
 
 Over the past few years we have made _some_ commits to some projects.
@@ -38,7 +45,6 @@ Over the past few years we have made _some_ commits to some projects.
 </ol>
 
 
-![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 <!--  
 
