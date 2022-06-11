@@ -4,7 +4,7 @@
 
 🔭  We work on JupyterBooks
 
-| Chief | Not Chief | Old Man
+| Chief | Not The Chief | Old Man
 |--------|----------|---------|
 |![dorothy in so cali](https://user-images.githubusercontent.com/24324773/167266532-481a9beb-0655-4d3d-9986-5023dd53d1c0.jpg) | ![Zoe](https://user-images.githubusercontent.com/24324773/167266217-bbd8c0b4-b774-4546-8caa-dc91f35f0e6b.png) | ![The Old Man](https://user-images.githubusercontent.com/24324773/167303421-21cf29a1-29ff-464a-99cd-66b4e9684290.jpg)
 
