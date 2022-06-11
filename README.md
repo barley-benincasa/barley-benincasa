@@ -4,7 +4,7 @@
 
 🔭  We work on JupyterBooks
 
-| Chief | Not The Chief | Old Man
+| The Chief | Not The Chief | The Old Man
 |--------|----------|---------|
 |![dorothy in so cali](https://user-images.githubusercontent.com/24324773/167266532-481a9beb-0655-4d3d-9986-5023dd53d1c0.jpg) | ![Zoe](https://user-images.githubusercontent.com/24324773/167266217-bbd8c0b4-b774-4546-8caa-dc91f35f0e6b.png) | ![The Old Man](https://user-images.githubusercontent.com/24324773/167303421-21cf29a1-29ff-464a-99cd-66b4e9684290.jpg)
 
@@ -27,7 +27,9 @@
 
 ![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-Not The Chief wanted to say 'cool' and the Old Man wanted to say, 'remarkable.'  But the Chief's the Chief.
+Not The Chief wanted to say 'cool' and The Old Man wanted to say 'remarkable.'  
+
+But The Chief's ___The___ Chief.
 
 
 ## Contributions
